@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss>
+    <item id="0">
+        <title>Najnovije</title>
+        <address>http://www.b92.net/info/rss/novo.xml</address>
+    </item>
+    <item id="1">
+        <title>Vesti</title>
+        <address>http://www.b92.net/info/rss/vesti.xml</address>
+    </item>
+    <item id="2">
+        <title>Sport</title>
+        <address>http://www.b92.net/info/rss/sport.xml</address>
+    </item>
+    <item id="3">
+        <title>Život</title>
+        <address>http://www.b92.net/info/rss/zivot.xml</address>
+    </item>
+    <item id="4">
+        <title>Tehnopolis</title>
+        <address>http://www.b92.net/info/rss/tehnopolis.xml</address>
+    </item>
+    <item id="5">
+        <title>Blog</title>
+        <address>http://blog.b92.net/rss/feed/index.xml</address>
+    </item>
+    <item id="6">
+        <title>English</title>
+        <address>http://www.b92.net/info/rss/news.xml</address>
+    </item>
+    <item id="7">
+        <title>Biz</title>
+        <address>http://www.b92.net/info/rss/biz.xml</address>
+    </item>
+    <item id="8">
+        <title>Kultura</title>
+        <address>http://www.b92.net/info/rss/kultura.xml</address>
+    </item>
+    <item id="9">
+        <title>Automobili</title>
+        <address>http://www.b92.net/info/rss/automobili.xml</address>
+    </item>
+    <item id="10">
+        <title>Putovanja</title>
+        <address>http://www.b92.net/info/rss/putovanja.xml</address>
+    </item>
+    <item id="11">
+        <title>Zdravlje</title>
+        <address>http://www.b92.net/info/rss/zdravlje.xml</address>
+    </item>
+    <item id="12">
+        <title>Video</title>
+        <address>http://www.b92.net/info/rss/video.xml</address>
+    </item>
+</rss>
